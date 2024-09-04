@@ -1,0 +1,13 @@
+## Interface: 110000
+## Title: EmotePad
+## Author: Bing Streans
+## IconTexture: Interface\AddOns\EmotePad\Icon\Icon
+
+## Version: 0.8
+
+## Notes: A notepad to help write and post emotes.
+## RequiredDeps: EmoteSplitter
+## OptionalDeps: Ace3
+
+embeds.xml
+EmotePad.lua
